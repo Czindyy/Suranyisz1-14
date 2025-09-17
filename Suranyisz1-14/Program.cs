@@ -297,7 +297,7 @@
             Console.WriteLine();
         }
 
-        static void F28() //beolvas egy számot, és kiírja a szám prímosztóit 
+        static void F28()  
         {
             Console.WriteLine("Adj meg egy pozitív egész számot!");
             int n = int.Parse(Console.ReadLine());
@@ -321,7 +321,7 @@
             Console.WriteLine();
         }
 
-        static void F29() //beolvas egy számot, majd kiírja a szám prímtényezős felbontását
+        static void F29() 
         {
             Console.WriteLine("Adj meg egy pozitív egész számot!");
             int n = int.Parse(Console.ReadLine());
